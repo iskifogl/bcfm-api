@@ -1,0 +1,6 @@
+com/example/bfcmapi/whoami.class
+com/example/bfcmapi/ResponseTransfer.class
+com/example/bfcmapi/alert.class
+com/example/bfcmapi/alertController.class
+com/example/bfcmapi/whoamiController.class
+com/example/bfcmapi/BfcmApiApplication.class
