@@ -9,6 +9,5 @@ RUN sh -c 'touch bfcm-api-0.0.1-SNAPSHOT.jar'
 ARG JAR_FILE=target/bfcm-api-0.0.1-SNAPSHOT.jar
 
 # tell the port number the container should expose
-EXPOSE 5000
-
+#
 ENTRYPOINT ["java","-jar","bfcm-api-0.0.1-SNAPSHOT.jar"]

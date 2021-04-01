@@ -9,4 +9,4 @@ Build işlemini başarılı bir şekidle gerçekleştirmek için, projenin root 
 
 Docker Image'ı Run etmek için 
 
-"docker run bfcm-api " kodunu çalıştırın.
+"docker run -p 8080:8080 bfcm-api" kodunu çalıştırın.
